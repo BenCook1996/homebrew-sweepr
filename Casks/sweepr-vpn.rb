@@ -1,6 +1,6 @@
 cask "sweepr-vpn" do
   version "2.5.0"
-  sha256 "d9c4638648b04b1b86aa42af9d64f1897e7888166527941807e0f63fd2035fae"
+  sha256 "02206eb1a409316f56af01bf8aef1c4b7c22c106c4cb7c756d9cef3a003bd633"
 
   url "https://sweeprvpn.com/SWEEPRVPN.dmg"
   name "SWEEPR VPN"
