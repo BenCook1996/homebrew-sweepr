@@ -1,8 +1,8 @@
 cask "sweepr-vpn" do
-  version "2.5.0"
-  sha256 "02206eb1a409316f56af01bf8aef1c4b7c22c106c4cb7c756d9cef3a003bd633"
+  version "2.6.0"
+  sha256 "2ad4944c760e3edb29bf2b4badbb4cee2fa3ce61d9fe97016925028d4af26554"
 
-  url "https://sweeprvpn.com/SWEEPRVPN.dmg"
+  url "https://github.com/BenCook1996/sweepr-vpn/releases/download/v#{version}/SWEEPRVPN.dmg"
   name "SWEEPR VPN"
   desc "10Gbps RAM-only WireGuard VPN, Home Wi-Fi Device Scanner & Smart-TV ACR Shield"
   homepage "https://sweeprvpn.com"
